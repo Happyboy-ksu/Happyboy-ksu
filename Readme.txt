@@ -1,10 +1,13 @@
 Readme File
 
-1. Multi-T.R:  R-program of t-Procedure
-2. Multi-Laplace.R:  R-program of the Laplace-Procedure
-3. Ldegree.R: Selection of the degrees of freedom when applying t-Procedure
-4. Result.R: R-program to generate Table1-Table4 in the paper
-5. Boxplots_for_Simulated_Data.R: Boxplots of the simulated data prepared for reviwer 2.
-6. topeka.txt: Lung function data in the real data analysis.
-
+1. Multi-T-updated.R:  R-program of t-Procedure.
+2. Multi-Laplace-updated.R:  R-program of the Laplace-Procedure.
+3. Ldegree.R: Selection of the degrees of freedom when applying t-Procedure.
+4. Result.R: R-program to generate boxplots, all the efficiency tables in the paper and in the supplementary document.
+5. RealData_Laplace.R: R-program for sensitivity analysis using Laplace algorithm and the original data.
+6. RealData_Laplace_OneLier.R: R-program for sensitivity analysis using Laplace algorithm and the data with outlier in the first subject.
+7. RealData_Laplace_TwoLier.R: R-program for sensitivity analysis using Laplace algorithm and the data with outlier in the first two subjects.
+8. Stability.R: R-program for creating Figure 7 in the stability analysis. 
+9. Lineplot_RealData.R: R-program for creating the line plot in Figure 6.
+10. topeka.txt: Lung function data in the real data analysis.
 
