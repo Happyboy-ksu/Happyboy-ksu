@@ -82,6 +82,7 @@ box(lty = "blank")  # Remove the surrounding box
   for(k in seq(8))
   {
     lines(outliers,X[k,1,])
+    points(outliers,X[k,3,],pch=19)
   }
 
 
@@ -96,6 +97,7 @@ box(lty = "blank")  # Remove the surrounding box
   for(k in seq(8))
   {
     lines(outliers,X[k,3,])
+    points(outliers,X[k,3,],pch=19)
   }
 
 
